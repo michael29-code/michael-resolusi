@@ -2,7 +2,7 @@ Rencana Konten
 -Javascript
 *ES6
 *Framework javascript
-  ^ Angular
+  ^ Vue
   ^ React
 -SCSS
 
