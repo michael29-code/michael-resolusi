@@ -3,5 +3,6 @@ Rencana Konten
 *ES6
 *Framework javascript
   ^ Vue
+  ^ React
 -SCSS
 -Fundamental data structure
