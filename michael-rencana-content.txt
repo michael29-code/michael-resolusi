@@ -3,3 +3,4 @@ Rencana Konten
 *ES6
 *Framework javascript
 -SCSS
+-Fundamental data structure
