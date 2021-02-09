@@ -2,5 +2,6 @@ Rencana Konten
 -Javascript
 *ES6
 *Framework javascript
+  ^ Vue
 -SCSS
 -Fundamental data structure
